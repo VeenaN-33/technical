@@ -1,0 +1,81 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "tues2",
+            "request": "launch",
+            "mainClass": "tues2",
+            "projectName": "java_9cd1a867"
+        },
+        {
+            "type": "java",
+            "name": "wed1",
+            "request": "launch",
+            "mainClass": "wed1",
+            "projectName": "java_9cd1a867"
+        },
+        {
+            "type": "java",
+            "name": "wed",
+            "request": "launch",
+            "mainClass": "wed",
+            "projectName": "java_9cd1a867"
+        },
+        {
+            "type": "java",
+            "name": "fri",
+            "request": "launch",
+            "mainClass": "fri",
+            "projectName": "java_9cd1a867"
+        },
+        {
+            "type": "java",
+            "name": "tues1",
+            "request": "launch",
+            "mainClass": "tues1",
+            "projectName": "java_9cd1a867"
+        },
+        {
+            "type": "java",
+            "name": "mon3",
+            "request": "launch",
+            "mainClass": "mon3",
+            "projectName": "java_9cd1a867"
+        },
+        {
+            "type": "java",
+            "name": "mon2",
+            "request": "launch",
+            "mainClass": "mon2",
+            "projectName": "java_9cd1a867"
+        },
+        {
+            "type": "java",
+            "name": "mon",
+            "request": "launch",
+            "mainClass": "mon",
+            "projectName": "java_9cd1a867"
+        },
+        {
+            "type": "java",
+            "name": "sun",
+            "request": "launch",
+            "mainClass": "sun",
+            "projectName": "java_9cd1a867"
+        },
+        {
+            "type": "java",
+            "name": "tues",
+            "request": "launch",
+            "mainClass": "tues",
+            "projectName": "java_9cd1a867"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": ""
+        }
+    ]
+}
